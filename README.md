@@ -6,18 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
 - [strings](#strings) (2)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ng7357/Codeforces-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 
 ### constructive algorithms
 
@@ -36,6 +44,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ng7357/Codeforces-solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ng7357/Codeforces-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 
 ### strings
 
