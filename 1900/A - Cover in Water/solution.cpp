@@ -11,7 +11,7 @@ int main() {
  
         cin >> n >> s;
  
-        // Agar "..." मौजूद है
+        
         if (s.find("...") != string::npos) {
             cout << 2 << endl;
         }
