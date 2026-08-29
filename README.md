@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 6 |
+| 4 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
+- [math](#math) (2)
 - [strings](#strings) (2)
 
 ---
@@ -26,6 +26,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ng7357/Codeforces-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ng7357/Codeforces-solutions/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
 
 ### constructive algorithms
 
@@ -50,6 +51,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ng7357/Codeforces-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ng7357/Codeforces-solutions/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
 
 ### strings
 
