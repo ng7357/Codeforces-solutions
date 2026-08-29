@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 6 |
+| 6 | 6 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
-- [math](#math) (2)
+- [math](#math) (3)
 - [strings](#strings) (2)
 
 ---
@@ -53,6 +53,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ng7357/Codeforces-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ng7357/Codeforces-solutions/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ng7357/Codeforces-solutions/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 
 ### strings
 
